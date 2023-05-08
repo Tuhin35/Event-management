@@ -1,0 +1,41 @@
+[
+  {
+    "Restaurant_name": "Buffet Lounge",
+    "venue_cost": "10000",
+    "Restaurant_Picture": "https://i.ibb.co/FzrqCmm/Buffet-Lucnh.jpg",
+    "Food_picture1": "https://i.ibb.co/RCPdVrM/Buffet-Lounge.jpg",
+    "Food_picture2": "https://i.ibb.co/RCPdVrM/Buffet-Lounge.jpg",
+    "Food1_Price": "550",
+    "Food2_Price": "650",
+    "slots": [
+      "1.00 PM - 4.00 PM",
+      "7.00 PM - 10.00 PM"
+    ]
+  },
+  {
+    "Restaurant_name": "Buffet Mania",
+    "venue_cost": "15000",
+    "Restaurant_Picture": "https://i.ibb.co/h2HtNzR/buffet-Mania.jpg",
+    "Food_picture1": "https://i.ibb.co/tqnCxr5/Buffet-Mania-food.jpg",
+    "Food_picture2": "https://i.ibb.co/tqnCxr5/Buffet-Mania-food.jpg",
+    "Food1_Price": "549",
+    "Food2_Price": "599",
+    "slots": [
+      "1.00 PM - 4.00 PM",
+      "7.00 PM - 10.00 PM"
+    ]
+  },
+  {
+    "Restaurant_name": "Taste Blast",
+    "venue_cost": "12000",
+    "Restaurant_Picture": "https://i.ibb.co/Ltkg5Y3/Taste-Blast.jpg",
+    "Food_picture1": "https://i.ibb.co/K0Z1ZXt/taste-blast-lunch.jpg",
+    "Food_picture2": "https://i.ibb.co/pymTgPW/taste-blast-food.jpg",
+    "Food1_Price": "549",
+    "Food2_Price": "599",
+    "slots": [
+      "1.00 PM - 4.00 PM",
+      "7.00 PM - 10.00 PM"
+    ]
+  }
+]
